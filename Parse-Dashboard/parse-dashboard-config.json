@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://queueunderflow.herokuapp.com/parse",
+    "appId": "cmps253",
+    "masterKey": "cmps253master",
+    "appName": "Queueundeflow",
     "iconName": ""
   }],
   "iconsFolder": "icons"
