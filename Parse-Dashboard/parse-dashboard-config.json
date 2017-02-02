@@ -3,8 +3,6 @@
     "serverURL": "https://queueunderflow.herokuapp.com/parse",
     "appId": "cmps253",
     "masterKey": "cmps253master",
-    "appName": "Queueundeflow",
-    "iconName": "favicons.ico"
-  }],
-  "iconsFolder": "icons"
+    "appName": "Queueundeflow"
+  }
 }
